@@ -1,22 +1,20 @@
-# Hi, I'm Diya shah! 👋
+# Hi, I'm Diya Shah! 👋  
 
+💻 Full Stack Developer 
 
-I'm a web2 developer and intrested to learn web3
+---
 
+### 🌟 About Me  
+- 👩‍💻 Completed **two internships** as a **Full Stack Developer**.  
+- 🎨 Love creating **smooth UI experiences** and ⚡ **efficient servers**.  
+- 🛠️ Passionate about building **end-to-end products** – from **idea → execution**.   
+- 🌍 Believe **tech is a tool to solve real human problems**, rooted in **people + nature**.  
+- 🌱 Strongly believe in **sustainable solutions** for long-term impact.  
+- 🧠 Love exploring **mental health** and how **tech tools** can support well-being.  
+- 💡 Always curious to learn, experiment, and **turn ideas into seamless digital experiences**. 
+- 📫 **Reach me at:** shahdiya1162004@gmail.com  
+- 😄 **Pronouns:** SHE/HER  
 
-👩‍💻 I'm currently working on my blog app
-
-🧠 I'm currently learning GraphQL
-
-🤖 I'm intreseted in web 3
-
-🤔 I'm looking for help to understand web 3
-
-💬 Ask me about web dev
-
-📫 contact me:shahdiya1162004@gmail.com
-
-😄 Pronouns:SHE/HER
 
 
 
