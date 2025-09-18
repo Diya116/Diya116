@@ -5,7 +5,7 @@
 ---
 
 ### 🌟 About Me  
-- 👩‍💻 Completed **two internships** as a **Full Stack Developer**.  
+
 - 🎨 Love creating **smooth UI experiences** and ⚡ **efficient servers**.  
 - 🛠️ Passionate about building **end-to-end products** – from **idea → execution**.   
 - 🌍 Believe **tech is a tool to solve real human problems**, rooted in **people + nature**.  
