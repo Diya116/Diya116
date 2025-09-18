@@ -2,7 +2,6 @@
 
 💻 Full Stack Developer 
 
----
 
 ### 🌟 About Me  
 
