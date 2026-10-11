@@ -6,7 +6,8 @@
 ### 🌟 About Me  
 
 - 🎨 Love creating **smooth UI experiences** and ⚡ **efficient servers**.  
-- 🛠️ Passionate about building **end-to-end products** – from **idea → execution**.   
+- 🛠️ Passionate about building **end-to-end products** – from **idea → execution**.
+- 🎙️ Currently exploring Voice AI and building voice-powered products and intelligent agents.
 - 🌍 Believe **tech is a tool to solve real human problems**, rooted in **people + nature**.  
 - 🌱 Strongly believe in **sustainable solutions** for long-term impact.  
 - 🧠 Love exploring **mental health** and how **tech tools** can support well-being.  
